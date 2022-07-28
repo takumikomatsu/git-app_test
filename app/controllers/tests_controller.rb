@@ -1,4 +1,4 @@
 class TestsController < ApplicationController
-  def index
+  def index # indexアクションの定義
   end
 end
